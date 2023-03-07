@@ -3,7 +3,8 @@ PhD thesis: Numerical solutions of inverse partial differential equation problem
 
 ## Author(s)
 *   Zhixuan Jia
-
+## Committee members
+*   Ali Nadim, Marina Chugunova, Qidi Peng.
 --------------------------------------------------------------------------------
 
 ## Abstract
