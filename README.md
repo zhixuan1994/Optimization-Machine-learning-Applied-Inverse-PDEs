@@ -1,4 +1,4 @@
-PhD thesis: Numerical solutions of inverse partial differential equation problems
+PhD thesis: Optimization and Machine Learning Applied to Inverse Problems in Partial Differential Equations
 ========================
 
 ## Author(s)
